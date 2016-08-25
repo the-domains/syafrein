@@ -1,14 +1,14 @@
 layout_spectrum: 0.61631
-typography_spectrum: 0.4207579
 color:
   saturation: 0.6495955
   lightness: 0.9319396
   brandStrength: 0.6472737
-  rhythmicContrast: 0.5985883
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#FFFFFF'
+    - '#51627E'
+    - '#C0CB55'
+    - '#202021'
+    - '#70C4CF'
+  rhythmicContrast: 0.5985883
+typography_spectrum: 0.4207579
 name: Syafrein
